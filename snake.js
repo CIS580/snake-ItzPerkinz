@@ -34,7 +34,7 @@ for (y=0;y<numApples;y++)
   apples[y] = {x:Apx,y:Apy,w:15,h:15};
 }
 var apple = new Image();
-apple.src = "C:/Users/itzpe/OneDrive/Documents/GitHub/snake-ItzPerkinz/pics/Apple3.png";
+apple.src = "pics/Apple3.png";
 
 // Spawns a new apple
 function newApples(deleteAp)
@@ -48,7 +48,7 @@ function newApples(deleteAp)
 
 //Background
 var bground = new Image();
-bground.src = "C:/Users/itzpe/OneDrive/Documents/GitHub/snake-ItzPerkinz/pics/background.png";
+bground.src = "pics/background.png";
 
 //backCtx.drawImage(bground,0,0);
 
