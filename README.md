@@ -19,3 +19,7 @@ The game is implemented in JavaScript using the HTML5 canvas element using the p
 ## Extra Credit
 1. You may optionally implement obstacles within the game's area.  Should the snake collide with one, the game should end. (10)
 2. A bonus of 10 points is available for exceptionally polished game implementations.
+
+## Sources
+Apple - By vandrake @ opengameart.org
+Background - By ramtam @ opengameart.org
